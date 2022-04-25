@@ -1,7 +1,7 @@
 --[[
         Script Name: Shuudan! Infinite Stamina
         Game Link: https://www.roblox.com/games/8713885400/Shuudan-BLUE-LOCK-DEMO-BUGGY
-        Last Update: 4/24/2022
+        Last Update: 4/25/2022
 --]]
 
 local UIS = game:GetService("UserInputService")
