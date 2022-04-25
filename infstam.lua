@@ -4,7 +4,6 @@
         Last Update: 4/25/2022
 --]]
 
-local UIS = game:GetService("UserInputService")
 local Player = game:GetService("Players").LocalPlayer
 local Root = Player.Character:WaitForChild("HumanoidRootPart")
 local Original_Stamina = Root.BarInformation.Stamina.Meter.Size
